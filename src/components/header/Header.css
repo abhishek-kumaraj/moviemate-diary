@@ -1,0 +1,45 @@
+.header {
+    margin: 0 2.5rem;
+    padding: .5rem 0;
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+}
+
+.headerLeft, .headerRight {
+    display: flex;
+    align-items: center;
+
+}
+
+a > span{
+    margin: 0 30px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    color: white;
+}
+.appName {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: rgb(245,197,24);
+    border-radius: 4px;
+    padding: 3px;
+}
+.appName:hover{
+    color: black;
+    opacity: 0.7;
+}
+
+a > span:hover {
+    color: red;
+}
+
+.header__icon {
+    width: 80px;
+    cursor: pointer;
+}
+
+.user__avatar {
+    font-size: 2rem;
+}

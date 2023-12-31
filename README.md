@@ -17,3 +17,15 @@ MovieMate Diary is your go-to app for a personalized cinematic journey. Discover
 
 ### Detail about the movie
 ![detail](https://raw.githubusercontent.com/abhishek-kumaraj/moviemate-diary/main/public/detail.png)
+
+## Setting up Locally
+
+Follow the following step to setup the project locally
+
+1.`git clone https://github.com/abhishek-kumaraj/moviemate-diary.git`
+
+2.`cd moviemate-diary`
+
+3.`npm install`
+
+4.`npm run dev`
